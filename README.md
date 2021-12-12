@@ -6,3 +6,8 @@ The app allows for the loan company to know whether a user would default on a lo
 ![image](https://user-images.githubusercontent.com/85746519/145730593-efa6d4ba-ec08-4ff0-8ae5-a97b8be36f9f.png)
 
 For modeling, we use Classification algorithms such as Logistic regression, Support vector machine (SVM) algorithm, Random Forest Classification, Xgboost, K-nearest neighbours’ algorithm, and Decision Tree Classification and after training the best accuracy of 67% was gotten using the support vector machine algorithm and Logistic regression.
+
+## Acknowledgement
+
+Ingressive For Good:
+https://ingressive.org/
