@@ -50,7 +50,19 @@ background-size:cover;
       
 <b>Enter Your  Income</b> <input type="text" name="ApplicantIncome" placeholder="ApplicantIncome" required="required"><br><br>
 <b>Enter Your Coapplicants Income</b> <input type="text" name="CoapplicantIncome" placeholder="CoapplicantIncome" required="required"><br><br>
-<b>Enter Loan Term</b> <input type="text" name="Loan_Amount_Term" placeholder="Loan_Amount_Term" required="required"><br><br>
+<b>Enter Loan Term</b> <select id="Loan_Amount_Term" name="Loan_Amount_Term">
+<option value="">select an option</option>
+        <option value="12">12</option>
+        <option value="36">36</option>
+        <option value="60">60</option>
+        <option value="84">84</option>
+        <option value="120">120</option>
+        <option value="180">180</option>
+        <option value="240">240</option>
+        <option value="300">300</option>
+        <option value="360">360</option>
+        <option value="480">480</option>
+      </select><br><br>
          <button type="submit" class="my-cta-button">Predict</button>
       </form>
     </div>

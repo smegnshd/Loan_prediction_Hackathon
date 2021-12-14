@@ -5,7 +5,7 @@ import pickle
 import os
 
 app = Flask(__name__)
-model = pickle.load(open('loan', 'rb'))
+model = pickle.load(open('loan1', 'rb'))
 
 
 @app.route('/')
