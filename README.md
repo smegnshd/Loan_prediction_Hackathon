@@ -7,8 +7,8 @@ The app allows for the loan company to know whether a user would default on a lo
 
 For modeling, we use Classification algorithms such as Logistic regression, Support vector machine (SVM) algorithm, Random Forest Classification, Xgboost, K-nearest neighbours’ algorithm, and Decision Tree Classification and after training the best accuracy of 67% was gotten using the support vector machine algorithm and Logistic regression.
 
-# Get app 
-![GitHub Loan_prediction_dashboard](https://loanstatusprediction1.herokuapp.com/)
+# Get app Dashboard 
+![Loan_prediction_dashboard](https://loanstatusprediction1.herokuapp.com/)
 
 
 ## Acknowledgement
